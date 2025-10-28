@@ -51,3 +51,4 @@ if __name__ == "__main__":
 
     resultado = bfs(grafo, 1, 5)  # Busco camino desde 1 hasta 5
     print("Camino encontrado en busqueda en anchura:", resultado)
+
