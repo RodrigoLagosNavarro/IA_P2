@@ -63,3 +63,4 @@ if __name__ == "__main__":
 
     # Imprimo el resultado, debería salir [1, 2, 5]
     print("Camino encontrado en busqueda en profundidad:", resultado)
+
